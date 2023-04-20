@@ -22,7 +22,7 @@
     line-height: 1.5;
     font-size: 0.9em;
     padding: 15px;
-    background: #fafafa;
+    background: #594840;
     border-radius: 15px;
 }
 
@@ -52,7 +52,7 @@
 }
 
 .card__link {
-    color: teal;
+    color: white;
     text-decoration: none;
 }
 
