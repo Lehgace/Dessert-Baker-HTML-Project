@@ -1,9 +1,15 @@
 /* Three image containers (use 25% for four, and 50% for two, etc) */
-  .column_four {
+  
+  .column_two {
     float: left;
-    width: 25%;
+    width: 50%;
     padding: 5px;
   }
+  .column_four {
+      float: left;
+      width: 25%;
+      padding: 5px;
+    }
 
   .column_three {
     float: left;
